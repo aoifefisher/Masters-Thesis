@@ -66,7 +66,7 @@ from transformers import pipeline
 
 tokenizer = AutoTokenizer.from_pretrained("google-bert/bert-base-uncased")
 model = AutoModelForSequenceClassification.from_pretrained("google-bert/bert-base-uncased")
-hf_token = "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"
+hf_token = "***"
 
 emotionNumbers = {'sadness': 1, 'fear': 2, 'anger': 3, 'joy': 4}
 
