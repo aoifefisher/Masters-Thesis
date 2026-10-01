@@ -1,5 +1,5 @@
-# Masters-Thesis-LLM
-Welcome to my final masters thesis project ! For this project I created large language model built with a supervised learning technique to sort text based on the most prevelant emotion present out of the four most basic emotions highlighted in the Basic Emotion Theory (anger, fear, sadness, joy). 
+# Masters-Thesis-Machine-Learning-Model
+Welcome to my final masters thesis project ! For this project I created Machine Learning Model built with a supervised learning technique to sort text based on the most prevalent emotion present out of the four most basic emotions highlighted in the Basic Emotion Theory (anger, fear, sadness, joy). 
 
 **Overview**
 
